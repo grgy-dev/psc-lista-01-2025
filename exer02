@@ -1,0 +1,5 @@
+inicio
+   escreva("Digite seu nome: ")
+   leia(nome)
+   escreval("Seu nome é: ", nome)
+fimalgoritmo
